@@ -1,3 +1,4 @@
+//this is a test
 global without sharing class DragDropFileUploadController {
 	public DragDropFileUploadController(ApexPages.StandardController sc)
 	{
