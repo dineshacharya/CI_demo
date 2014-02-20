@@ -1,4 +1,3 @@
-//First demo being run.
 global without sharing class DragDropFileUploadController {
 	public DragDropFileUploadController(ApexPages.StandardController sc)
 	{
