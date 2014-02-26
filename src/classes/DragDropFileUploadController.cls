@@ -6,7 +6,7 @@ global without sharing class DragDropFileUploadController {
 	}
 
 	@RemoteAction
-    global static String saveFile(String filename, String fileContent, String id) {
+    global static String saveFile(String filename, String fileContent, String id) { // added Comments
     	String err = null;
     	try
     	{
