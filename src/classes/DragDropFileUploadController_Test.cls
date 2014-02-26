@@ -1,7 +1,9 @@
+
 @isTest
 private class DragDropFileUploadController_Test {
 
     static testMethod void unitTest() {
+		//Creating test account data with just required field values
     	Account acc = new Account();
     	acc.Name = 'Test';
     	insert acc;
