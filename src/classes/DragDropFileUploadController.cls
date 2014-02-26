@@ -2,7 +2,7 @@
 global without sharing class DragDropFileUploadController {
 	public DragDropFileUploadController(ApexPages.StandardController sc)
 	{
-		
+//testing comments uk01		
 	}
 
 	@RemoteAction
