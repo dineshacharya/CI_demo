@@ -1,4 +1,5 @@
 //Second demo for TRG team
+//Test Comment
 global without sharing class DragDropFileUploadController {
 	public DragDropFileUploadController(ApexPages.StandardController sc)
 	{
