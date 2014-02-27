@@ -1,8 +1,8 @@
-//Second demo for TRG team
+//Third demo for TRG team
 global without sharing class DragDropFileUploadController {
 	public DragDropFileUploadController(ApexPages.StandardController sc)
 	{
-		
+		//TODO drag and drop functionality for page.
 	}
 
 	@RemoteAction
