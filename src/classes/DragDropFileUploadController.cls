@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 //Third demo for TRG team
+=======
+//Second demo for TRG team
+//Test Comment
+>>>>>>> origin/Manjula-Demo-Branch
 global without sharing class DragDropFileUploadController {
 	public DragDropFileUploadController(ApexPages.StandardController sc)
 	{
